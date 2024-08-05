@@ -1,7 +1,7 @@
 -  Hi, I’m Kagiso 
 -  I’m interested in Networks & Cybersecurity 
 -  I’m currently learning Java
-- I'm familiar with C++,HTML
+- I'm also familiar with C++,HTML
 -  I’m looking forward to collaborate on projects aligned to my interest 
 -  How to reach me ...IG @mossito, LinkedIn @Kagiso Mphasha, Facebook @Kagiso Mphasha 
 
